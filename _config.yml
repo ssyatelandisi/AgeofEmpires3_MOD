@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 title: Architect theme
 description: Architect is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+=======
+theme: jekyll-theme-architect
+
+github:
+   zip_url: https://github.com/ssyatelandisi/AgeofEmpires3_MOD/archive/1.2.zip
+>>>>>>> 867d28939783a0ea699ac1a723ab1fd4a7eb74ff
